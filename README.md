@@ -86,15 +86,16 @@ This project focuses on analyzing YouTube trending video datasets from multiple 
 
 ## 📤 Final Deliverables
 
-| File | Description |
-|------|-------------|
-| `YouTube_Analytics_Report.xlsx` | All cleaned & analyzed data across sheets |
-| `sentiment_by_region.xlsx` | Sentiment distribution per country |
-| `duration_by_region.xlsx` | Avg. trending duration per region |
-| `avg_views_by_category_region.xlsx` | Category-wise avg. views by country |
-| `YouTube_Trending_Analytics_Report.pptx` | PowerPoint summary |
-| `final_report.pdf` | 1–2 page write-up with project overview |
-| `dashboard.pbix` | Power BI dashboard (optional) |
+| File Name                                | Purpose/Content                                          |
+| ---------------------------------------- | -------------------------------------------------------- |
+| `ELEVATE LABS.ipynb`                     | Notebook for data cleaning, processing, or analysis      |
+| `FINAL.pbix`                             | Power BI Dashboard File (complete visuals)               |
+| `README.md`                              | Project overview file (great for GitHub or sharing)      |
+| `YT_ELEVATE LABS visuals.ipynb`          | Visuals notebook—likely matplotlib/seaborn plots         |
+| `YouTube_Trending_Analytics_Report.pptx` | Storytelling PowerPoint with visuals and flow            |
+| `final report.pdf`                       | 2 page PDF report (abstract, steps, tools, conclusion) |
+| `youtube_dashboard_data.xlsx`            | Cleaned/aggregated dataset for dashboard/report use      |
+| `Screenshot 2025-06-27 151134.png`       | Dashboard or chart snapshot (for reports or thumbnails)  |
 
 ---
 
